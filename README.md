@@ -18,7 +18,7 @@
 
 ### Módulo
 
-# Tipos de datos en Python
+## Tipos de datos en Python
 
 ## Integer
 
@@ -34,7 +34,7 @@
 
 ## Dictionary
 
-# Tomando decisiones
+## Tomando decisiones
 
 ## Sentencia if
 
