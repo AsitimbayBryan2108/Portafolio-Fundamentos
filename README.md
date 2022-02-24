@@ -1,6 +1,5 @@
-## Qué es Python?
-
-## Qué es una variable?
+## ¿Qué es Python?
+## ¿Qué es una variable?
 
 ## Nombrando una variable
 
@@ -20,28 +19,28 @@
 
 ## Tipos de datos en Python
 
-## Integer
+### Integer
 
-## Float
+### Float
 
-## String
+### String
 
 ## Casting en Python
 
-## List
+### List
 
-## Tuple
+### Tuple
 
-## Dictionary
+### Dictionary
 
 ## Tomando decisiones
 
-## Sentencia if
+### Sentencia if
 
-## Ciclo For
+### Ciclo For
 
-## Ciclo While
+### Ciclo While
 
-## Break
+### Break
 
-## Continue
+### Continue
