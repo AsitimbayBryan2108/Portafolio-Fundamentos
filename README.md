@@ -1,6 +1,6 @@
-# Qué es Python?
+## Qué es Python?
 
-# Qué es una variable?
+## Qué es una variable?
 
 ## Nombrando una variable
 
