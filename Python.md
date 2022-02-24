@@ -1,9 +1,9 @@
 ## ¿Qué es Python?
 ## ¿Qué es una variable?
 
-## Nombrando una variable
+### Nombrando una variable
 
-## Asignando valores a una variable
+### Asignando valores a una variable
 
 ## Operadores básicos
 
