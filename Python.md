@@ -182,16 +182,27 @@ z = -254.6
 ```
 ### String
 Este tipo de datos corresponde con una cadena de caracteres,se usa el dato "str" para representarlo.
-cadena = "programa de python"
 ```python
+cadena = "programa de python"
 type(cadena)
 <class "str">
     print("cadena")
 ```
 ## Casting en Python
+Cast significa convertir un tipo de datos a otro. como int, string o float visto anteriormente, es posible convertir de un tipo a otro.
+```python
+ int a str: str(46)
+ str a int: int ("1245")
+ float a int: int (5.14)
+```
 
 ### List
-
+Son conjuntos ordenados de elementos, los valores de diferentes tipos de datos básicos se pueden agrupar y los elementos se pueden agregar, eliminar o cambiar de las listas en cualquier momento, se representan con corchetes"[]", comillas "" y comas ",".
+```python
+lista=["mesa", "silla", "ventana"]
+ 
+    print:("lista")
+```
 ### Tuple
 
 ### Dictionary
