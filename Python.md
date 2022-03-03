@@ -273,5 +273,43 @@ for n in num:
 ```
 En este caso usamos una lista, seguido del ciclo for, y lo que hace el programa imprime cada dato que esta en la lista.
 ### Ciclo While
+Un bucle wile permite repetir la ejecución de un grupo de instrucciones mientras se cumpla una condición (es decir, mientras la condición tenga el valor True), se representa de la siguiente manera
+```python
+while variable=0:
+```
+```python
+num=11
+while num<10 or num >20 or num%2!=0:
+    num=int(input("ingrese numero:"))
+print("la condicion es falsa")
+```
+Cuando la condicion es falsa el programa instantáneamente se termina.
 ### Break
+Break proporciona la capacidad de cerrar un ciclo cuando se activa una condición externa, se lo representa con "break".
+```python
+break
+```
+```python
+
+j=0
+for i in range (10):
+    j+=2
+    print ("i;",i,"j:",j)
+    if j==10:
+        break
+```
 ### Continue
+La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, pero continuar para completar el resto del bucle, se lo representa con "continue".
+```python
+continue
+```
+```python
+contador=0
+for i in range (10):
+    for j in range (10):
+        contador +=1
+        print ("i:",i,"j:",j)
+        if contador >50:
+            continue
+print ("contador:",contador)
+```
