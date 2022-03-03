@@ -13,11 +13,16 @@ Para nombrar una variable de manera correcta se debe hacer de derecha a izquierd
 ```python
 variable=100
 ```
+Incorrecta
+```python
+100=variable
+```
 No se puede nombrar una variable comenzando por un numero.
 
 ```python
 1variable=100
 ```
+
 ### Asignando valores a una variable
 Las variables se puede asignar numeros y letras sin espacio, pero no con numeros al principio.
 
