@@ -256,6 +256,22 @@ else:
     print("Los numeros son iguales")
 ```
 ### Ciclo For
+Los bucles for son lo que se denomina estructuras de control de flujo cíclico o simplemente estructuras de bucle, estos bucles, como su nombre indica, nos permiten ejecutar una o más líneas de código de forma iterativa, conociendo un valor  inicial específico y otro valor. se lo representa de la siguiente manera:
+
+```python
+for i in range(5):
+```
+se usa el for in como la condicion, i es el nombre de la variable y se usa range() para decir cuantas veces se repite el ciclo en este caso el ciclo se repite 5 veces.
+```python
+num=[1, 2, 3, 4]
+for n in num:
+    print(n)
+[output]1
+[output]2
+[output]3
+[output]4
+```
+En este caso usamos una lista, seguido del ciclo for, y lo que hace el programa imprime cada dato que esta en la lista.
 ### Ciclo While
 ### Break
 ### Continue
