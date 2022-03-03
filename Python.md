@@ -58,7 +58,7 @@ anho=2021
 
 ## Tomando decisiones
 
-### Sentencia if
+### Sentencia if,elif y else
 
 ### Ciclo For
 
