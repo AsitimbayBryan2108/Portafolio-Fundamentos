@@ -226,9 +226,33 @@ my_diccionario1 = {'nombre': 'bryan', 'edad': 21}
 ## Tomando decisiones
 
 ### Sentencia if,elif y else
+La estructura de control if permite que un programa ejecute declaraciones cuando se cumple una condición. En inglés, "if" significa "si", es importante poner ":" al final de if para asi cerrar la condicion.
+```python
+if variable=1:
+```
+El Elif se usa para multiples condiciones tambien usa los ":" al final de la condicion:
+```python
+if variable=1:
+elif variable=2:
+elif variable=3:
+```
+Cuando no se cumple ninguna condicion se usa el else.En ingles, "else" significa "si no", tambien usa los ":" al final.
+```python
+else:
+```
+Un ejemplo aplicando todo esto seria.
+```python
+#Cual de los dos numeros ingresados es el mayor.
+num1= int(input("Ingrese numero 1:"))
+num2= int(input("Ingrese numero 2:"))
 
-### Ciclo For
-
+if num1>num2:
+    print("El numero mayor es:",num1)
+elif num2>num1:
+    print("El numero mayor es:",num2)
+else:
+    print("Los numeros son iguales")
+```
 ### Ciclo While
 
 ### Break
