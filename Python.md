@@ -39,21 +39,27 @@ Se puede declarar variables en una misma linea usando ";".
 ```python
 x = 12; y =10; z=4
 ```
-
+## Print
+Puede imprimir en pantalla varias expresiones separadas por comas o a través de las cadenas, se expresa de la siguiente forma:
+```python
+print("Hola mundo")
+```
+se usa el print como funcion, los parensetis y las comillas para el texto a imprimir
+## Introducion por teclado
+Para introducir datos por medio de la consola se usa la siguiente linea:
+```python
+variable=int(input("dato a ingresar:"))
+```
+Se usa una variable, el int como tipo de dato, el input se usa para digitar un dato a traves de la consola,los parensetis y las comillas para el texto a imprimir
 ## Operadores básicos
-suma = +
-resta = -
-multiplicación = *
-división = /
-módulo = %
 ### Suma
-Ejemplo
+El operador para la suma es "+"
 ```python
 suma=21+8
 print(suma)
 [output]29
 ```
-Tambien se puede sumar con dos variables
+Se puede sumar con dos variables
 ```python
 num1=6
 num2=20
@@ -61,16 +67,41 @@ suma=num1+num2
 print(suma)
 [output]26
 ```
+Se puede introducir un numero por medio de la consola.
+```python
+num1=int(input("ingrese un numero:"))
+num2=int(input("ingrese un numero:"))
+sum1=num1+num2
+print(num1,'+',num2,'=',sum1)
+```
 
 ### Resta
-
+El operador para la resta es "-"
+```python
+resta=21-8
+print(resta)
+[output]13
+```
+Tambien se puede restar con dos variables
+```python
+num1=26
+num2=20
+resta=num1-num2
+print(resta)
+[output]6
+```
+Se puede introducir un numero por medio de la consola.
+```python
+num1=int(input("ingrese un numero:"))
+num2=int(input("ingrese un numero:"))
+resta=num1-num2
+print(num1,'-',num2,'=',resta)
+```
 ### Multiplicación
 
 ### División
 
 ### Módulo
-
-## Introducion por teclado
 
 ## Tipos de datos en Python
 
