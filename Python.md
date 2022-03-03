@@ -2,7 +2,7 @@
 Python es un lenguaje sencillo de leer y escribir dada su gran similitud con el lenguaje humano, además es un lenguaje  de código abierto y por lo tanto libre y multiplataforma, lo que permite un desarrollo ilimitado de software.
 
 
-![image](https://user-images.githubusercontent.com/99736243/156488001-8e5eb1d7-4121-4b71-b662-cbab6f43b8c4.png)
+   ![images-removebg-preview](https://user-images.githubusercontent.com/99736243/156488107-3f0082cc-d59e-47f6-b890-fa21367ef17b.png)
 
 
 ## ¿Qué es una variable?
