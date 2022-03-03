@@ -9,14 +9,17 @@ Python es un lenguaje sencillo de leer y escribir dada su gran similitud con el 
 Una variable es una declaracion para decirle al programa dónde comenzar, qué nombre tendrá y qué tipo de datos almacenará. Este es un elemento que se utiliza para almacenar y hacer referencia a otros valores.
 
 ### Nombrando una variable
-Para nombrar una variable de manera correcta se debe hacer de derecha a izquierda, su operador para asignar una variable es "=".
-
+Para nombrar una variable de manera correcta se debe hacer de derecha a izquierda, su operador para asignar una variable es "=". 
 ```python
 variable=100
 ```
+No se puede nombrar una variable comenzando por un numero.
 
+```python
+1variable=100
+```
 ### Asignando valores a una variable
-Las variables se puede asignar numeros y letras sin espacio.
+Las variables se puede asignar numeros y letras sin espacio, pero no con numeros al principio.
 
 ```python
 dia=martes
