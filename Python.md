@@ -230,14 +230,16 @@ La estructura de control if permite que un programa ejecute declaraciones cuando
 ```python
 if variable=1:
 ```
-El Elif se usa para multiples condiciones tambien usa los ":" al final de la condicion:
+El Elif se usa para multiples condiciones, tambien usa los ":" al final de la condicion:
 ```python
 if variable=1:
 elif variable=2:
 elif variable=3:
 ```
-Cuando no se cumple ninguna condicion se usa el else.En ingles, "else" significa "si no", tambien usa los ":" al final.
+Cuando no se cumple ninguna condicion se usa el else. En ingles, "else" significa "si no", tambien usa los ":" al final.
 ```python
+if variable=1:
+elif variable=2:
 else:
 ```
 Un ejemplo aplicando todo esto seria.
@@ -253,8 +255,7 @@ elif num2>num1:
 else:
     print("Los numeros son iguales")
 ```
+### Ciclo For
 ### Ciclo While
-
 ### Break
-
 ### Continue
