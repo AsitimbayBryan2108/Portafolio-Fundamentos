@@ -6,6 +6,9 @@ Python es un lenguaje sencillo de leer y escribir dada su gran similitud con el 
 
 
 ## ¿Qué es una variable?
+´´´´
+print(hola)
+´´´´
 ### Nombrando una variable
 
 ### Asignando valores a una variable
