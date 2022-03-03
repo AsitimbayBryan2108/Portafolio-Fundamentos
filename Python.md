@@ -210,7 +210,19 @@ tuple=[mesa,silla,ventana]
     print:("tuple")
 ```
 ### Dictionary
+Dictionary es un tipo de dato en Python con características especiales que nos permiten almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. Estos diccionarios también nos permiten  identificar cada elemento mediante una clave.
 
+```python
+my_diccionario1 = {'nombre': 'bryan', 'edad': 21}
+
+    print(mi_diccionario1['nombre'])
+    
+    print(mi_diccionario.get('edad'))
+    
+    print(mi_diccionario.get('dirección'))
+    
+    print(mi_diccionario['dirreción'])
+```
 ## Tomando decisiones
 
 ### Sentencia if,elif y else
