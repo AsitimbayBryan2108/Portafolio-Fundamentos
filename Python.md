@@ -40,7 +40,7 @@ anho=2021
 
 ### Módulo
 
-##Introducion por teclado
+## Introducion por teclado
 
 ## Tipos de datos en Python
 
