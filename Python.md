@@ -41,9 +41,26 @@ x = 12; y =10; z=4
 ```
 
 ## Operadores básicos
-
+suma = +
+resta = -
+multiplicación = *
+división = /
+módulo = %
 ### Suma
-Para cualquier procesaso que con lleve una suma su operador es "+"
+Ejemplo
+```python
+suma=21+8
+print(suma)
+[output]29
+```
+Tambien se puede sumar con dos variables
+```python
+num1=6
+num2=20
+suma=num1+num2
+print(suma)
+[output]26
+```
 
 ### Resta
 
