@@ -24,7 +24,7 @@ No se puede nombrar una variable comenzando por un numero.
 ```
 
 ### Asignando valores a una variable
-Las variables se puede asignar numeros y letras sin espacio, pero no con numeros al principio.
+Las variables se puede asignar numeros y letras sin espacio.
 
 ```python
 dia=martes
@@ -35,10 +35,15 @@ dia=martes
 mes=8
 anho=2021
 ```
+Se puede declarar variables en una misma linea usando ";".
+```python
+x = 12; y =10; z=4
+```
 
 ## Operadores básicos
 
 ### Suma
+Para cualquier procesaso que con lleve una suma su operador es "+"
 
 ### Resta
 
