@@ -204,13 +204,13 @@ lista=["mesa", "silla", "ventana"]
 [output]mesa,silla,ventana
 ```
 ### Tuple
-La tuple es lo mismo que list pero con la diferencia que no se puede reemplazar los datos ingresados es decir inmutables, se representan con corchetes"[]", comillas "" y comas ",".
+La tuple es lo mismo que list pero con la diferencia que no se puede reemplazar los datos ingresados es decir inmutables, se representan con parentesis"()", comillas "" y comas ",".
 ```python
 tuple=[mesa,silla,ventana]
     print:("tuple")
 ```
 ### Dictionary
-Dictionary es un tipo de dato en Python con características especiales que nos permiten almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. Estos diccionarios también nos permiten  identificar cada elemento mediante una clave.
+Dictionary es un tipo de dato en Python con características especiales que nos permiten almacenar cualquier tipo de valor como enteros, cadenas, listas e incluso otras funciones. Estos diccionarios también nos permiten  identificar cada elemento mediante una clave. se represente con una "{}"
 
 ```python
 my_diccionario1 = {'nombre': 'bryan', 'edad': 21}
