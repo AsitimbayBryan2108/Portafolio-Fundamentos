@@ -132,5 +132,13 @@ while op != 0:
     ===============================
     ''')
         region = input('Ingrese región:')
-        total = total_por_region(region)
-        print("La Region",region, 'es igual:', total,"Dolares$", '\n')
+        total3 = total_por_region(region)
+        if type(total3)==int:
+            print("La Region",region, 'recaudo:', total3,"Dolares$", '\n')
+        else:
+            print(total3)
+    elif op==0:
+        exit
+        print("saliendo")
+    else:
+        print("Coloque Bien")
